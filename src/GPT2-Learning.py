@@ -540,7 +540,7 @@ def main():
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("BOTKEY", use_context=False)
+    updater = Updater("5734929195:AAGndD2og7gzFFY4Ak9TpKmGHPXAmIZSzGo", use_context=False)
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
     # on different commands - answer in Telegram
